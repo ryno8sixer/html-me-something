@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+    color: blue;
+    background-color: black;
+}
+.picture {
+    width:300px; 
+    height:300px;
+}
+p {
+	font-family: Garamond, serif;
+    font-size: 18px;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding-bottom: 50px;    
+}
+h1 {
+    color: red;
+    font-family: cursive;
+    font-size: 56px;
+    padding-bottom: 50px;
+}
+h3 {
+    color: white;
+    font-family: serif;
+    font-size: 22px;
+    font-stretch: expanded;
+}
